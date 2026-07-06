@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuuuSinghh/dsa_Array_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1089-duplicate-zeros](https://github.com/PriyanshuuuSinghh/dsa_Array_Practice/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshuuuSinghh/dsa_Array_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/PriyanshuuuSinghh/dsa_Array_Practice/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
