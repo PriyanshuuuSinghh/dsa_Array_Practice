@@ -23,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1089-duplicate-zeros](https://github.com/PriyanshuuuSinghh/dsa_Array_Practice/tree/master/1089-duplicate-zeros) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PriyanshuuuSinghh/dsa_Array_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/PriyanshuuuSinghh/dsa_Array_Practice/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
